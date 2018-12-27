@@ -7,3 +7,4 @@ What Can it do:
 What to Add: 
 1. Undo/Redo
 2. Score 
+3. Bug Fixes
